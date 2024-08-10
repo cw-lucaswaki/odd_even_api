@@ -1,0 +1,45 @@
+# File: .github/workflows/elixir-ci.yml
+
+name: Elixir CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    name: Build and test
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Elixir
+      uses: erlef/setup-beam@v1
+      with:
+        elixir-version: '1.14.0' # Specify the Elixir version you're using
+        otp-version: '25.0'      # Specify the OTP version
+    
+    - name: Restore dependencies cache
+      uses: actions/cache@v2
+      with:
+        path: deps
+        key: ${{ runner.os }}-mix-${{ hashFiles('**/mix.lock') }}
+        restore-keys: ${{ runner.os }}-mix-
+    
+    - name: Install dependencies
+      run: mix deps.get
+    
+    - name: Run tests
+      run: mix test
+    
+    - name: Check Formatting
+      run: mix format --check-formatted
+    
+    - name: Run Credo
+      run: mix credo --strict
+
+    - name: Run custom lint task
+      run: mix lint
