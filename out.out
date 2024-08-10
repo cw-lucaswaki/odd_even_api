@@ -1,0 +1,3344 @@
+[info] Running OddEvenApiWeb.Endpoint with Bandit 1.5.7 at 127.0.0.1:4000 (http)
+[info] Access OddEvenApiWeb.Endpoint at http://localhost:4000
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] Sent 200 in 19ms
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 63µs
+[info] Sent 200 in 63µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 80µs
+[info] Sent 200 in 66µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 74µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 137µs
+[info] Sent 200 in 115µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 140µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 162µs
+[info] Sent 200 in 112µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 147µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 822µs
+[info] Sent 200 in 829µs
+[info] Sent 200 in 820µs
+[info] Sent 200 in 880µs
+[info] Sent 200 in 1ms
+[info] Sent 200 in 1ms
+[info] Sent 200 in 1ms
+[info] Sent 200 in 1ms
+[info] Sent 200 in 1ms
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 36µs
+[info] Sent 200 in 45µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 51µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 109µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 76µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 83µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 87µs
+[info] Sent 200 in 90µs
+[info] Sent 200 in 136µs
+[info] Sent 200 in 127µs
+[info] Sent 200 in 116µs
+[info] Sent 200 in 101µs
+[info] Sent 200 in 141µs
+[info] Sent 200 in 125µs
+[info] Sent 200 in 111µs
+[info] Sent 200 in 145µs
+[info] Sent 200 in 102µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 108µs
+[info] Sent 200 in 209µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 40µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 40µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 59µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 80µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 98µs
+[info] Sent 200 in 93µs
+[info] Sent 200 in 144µs
+[info] Sent 200 in 123µs
+[info] Sent 200 in 100µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 156µs
+[info] Sent 200 in 140µs
+[info] Sent 200 in 176µs
+[info] Sent 200 in 119µs
+[info] Sent 200 in 123µs
+[info] Sent 200 in 166µs
+[info] Sent 200 in 135µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 99µs
+[info] Sent 200 in 156µs
+[info] Sent 200 in 161µs
+[info] Sent 200 in 180µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 36µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 47µs
+[info] Sent 200 in 39µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 87µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 63µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 77µs
+[info] Sent 200 in 92µs
+[info] GET /api/check/42
+[info] Sent 200 in 114µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 73µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 106µs
+[info] Sent 200 in 163µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 132µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 159µs
+[info] Sent 200 in 235µs
+[info] Sent 200 in 108µs
+[info] Sent 200 in 242µs
+[info] Sent 200 in 220µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 237µs
+[info] Sent 200 in 288µs
+[info] Sent 200 in 199µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 40µs
+[info] Sent 200 in 46µs
+[info] Sent 200 in 32µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 37µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 106µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 144µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 144µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 132µs
+[info] Sent 200 in 126µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 90µs
+[info] Sent 200 in 124µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 148µs
+[info] Sent 200 in 92µs
+[info] Sent 200 in 127µs
+[info] Sent 200 in 200µs
+[info] Sent 200 in 120µs
+[info] Sent 200 in 153µs
+[info] Sent 200 in 142µs
+[info] Sent 200 in 148µs
+[info] Sent 200 in 171µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 33µs
+[info] Sent 200 in 40µs
+[info] Sent 200 in 45µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 83µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 48µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 62µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 101µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 174µs
+[info] Sent 200 in 120µs
+[info] Sent 200 in 103µs
+[info] Sent 200 in 134µs
+[info] Sent 200 in 73µs
+[info] Sent 200 in 81µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 194µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 121µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 181µs
+[info] Sent 200 in 184µs
+[info] Sent 200 in 181µs
+[info] Sent 200 in 208µs
+[info] Sent 200 in 191µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 36µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 31µs
+[info] Sent 200 in 48µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 90µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 54µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 61µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 107µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 114µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 136µs
+[info] Sent 200 in 91µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 104µs
+[info] Sent 200 in 73µs
+[info] Sent 200 in 125µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 110µs
+[info] Sent 200 in 147µs
+[info] Sent 200 in 146µs
+[info] Sent 200 in 143µs
+[info] Sent 200 in 125µs
+[info] Sent 200 in 131µs
+[info] Sent 200 in 200µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 40µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 32µs
+[info] Sent 200 in 50µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 79µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 88µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 116µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 104µs
+[info] Sent 200 in 187µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 134µs
+[info] Sent 200 in 99µs
+[info] Sent 200 in 180µs
+[info] Sent 200 in 77µs
+[info] Sent 200 in 130µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 255µs
+[info] Sent 200 in 127µs
+[info] Sent 200 in 198µs
+[info] Sent 200 in 189µs
+[info] Sent 200 in 83µs
+[info] Sent 200 in 230µs
+[info] Sent 200 in 311µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 37µs
+[info] Sent 200 in 69µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 87µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 89µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 86µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 103µs
+[info] Sent 200 in 106µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 45µs
+[info] GET /api/check/42
+[info] Sent 200 in 57µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 84µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 132µs
+[info] Sent 200 in 157µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 143µs
+[info] Sent 200 in 80µs
+[info] Sent 200 in 98µs
+[info] Sent 200 in 145µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 145µs
+[info] Sent 200 in 211µs
+[info] Sent 200 in 190µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 286µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 33µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 65µs
+[info] Sent 200 in 66µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 101µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 73µs
+[info] Sent 200 in 68µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 94µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 96µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 127µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 60µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 80µs
+[info] Sent 200 in 106µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 139µs
+[info] Sent 200 in 179µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 222µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 194µs
+[info] Sent 200 in 261µs
+[info] Sent 200 in 120µs
+[info] Sent 200 in 229µs
+[info] Sent 200 in 339µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 51µs
+[info] GET /api/check/42
+[info] Sent 200 in 56µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 47µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 47µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 46µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 98µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 126µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 164µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 174µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 70µs
+[info] Sent 200 in 152µs
+[info] Sent 200 in 205µs
+[info] Sent 200 in 198µs
+[info] Sent 200 in 184µs
+[info] Sent 200 in 167µs
+[info] Sent 200 in 212µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 202µs
+[info] Sent 200 in 170µs
+[info] Sent 200 in 101µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 335µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 37µs
+[info] Sent 200 in 33µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 36µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 98µs
+[info] Sent 200 in 137µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 59µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 58µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 38µs
+[info] GET /api/check/42
+[info] Sent 200 in 65µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 63µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 63µs
+[info] Sent 200 in 98µs
+[info] Sent 200 in 66µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 126µs
+[info] Sent 200 in 131µs
+[info] Sent 200 in 97µs
+[info] Sent 200 in 125µs
+[info] Sent 200 in 89µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 190µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 103µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 45µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 62µs
+[info] Sent 200 in 60µs
+[info] GET /api/check/42
+[info] Sent 200 in 42µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 86µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 46µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 72µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 117µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 81µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 160µs
+[info] Sent 200 in 133µs
+[info] Sent 200 in 106µs
+[info] Sent 200 in 113µs
+[info] Sent 200 in 142µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 220µs
+[info] Sent 200 in 87µs
+[info] Sent 200 in 117µs
+[info] Sent 200 in 226µs
+[info] Sent 200 in 209µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 497µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 34µs
+[info] Sent 200 in 34µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 86µs
+[info] Sent 200 in 77µs
+[info] Sent 200 in 116µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 69µs
+[info] GET /api/check/42
+[info] Sent 200 in 40µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 54µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 67µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 121µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 101µs
+[info] Sent 200 in 135µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 150µs
+[info] Sent 200 in 46µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 149µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 104µs
+[info] Sent 200 in 126µs
+[info] Sent 200 in 149µs
+[info] Sent 200 in 135µs
+[info] Sent 200 in 306µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 54µs
+[info] Sent 200 in 39µs
+[info] GET /api/check/42
+[info] Sent 200 in 66µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 79µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 104µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 31µs
+[info] Sent 200 in 155µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 48µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 68µs
+[info] Sent 200 in 82µs
+[info] Sent 200 in 92µs
+[info] Sent 200 in 83µs
+[info] Sent 200 in 99µs
+[info] Sent 200 in 72µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 85µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 100µs
+[info] Sent 200 in 108µs
+[info] Sent 200 in 146µs
+[info] Sent 200 in 109µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 184µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 50µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 79µs
+[info] Sent 200 in 61µs
+[info] Sent 200 in 66µs
+[info] Sent 200 in 66µs
+[info] Sent 200 in 100µs
+[info] Sent 200 in 109µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 31µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 25µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 67µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 58µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 31µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 47µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 89µs
+[info] Sent 200 in 65µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 114µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 94µs
+[info] Sent 200 in 106µs
+[info] Sent 200 in 97µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 85µs
+[info] Sent 200 in 108µs
+[info] Sent 200 in 109µs
+[info] Sent 200 in 138µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 34µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 40µs
+[info] Sent 200 in 53µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 58µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 85µs
+[info] Sent 200 in 92µs
+[info] Sent 200 in 84µs
+[info] Sent 200 in 79µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 45µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 22µs
+[info] Sent 200 in 28µs
+[info] Sent 200 in 26µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 45µs
+[info] Sent 200 in 53µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 89µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 116µs
+[info] GET /api/check/42
+[info] Sent 200 in 110µs
+[info] Sent 200 in 105µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 47µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 134µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 47µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 22µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 26µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 76µs
+[info] Sent 200 in 85µs
+[info] Sent 200 in 87µs
+[info] Sent 200 in 49µs
+[info] Sent 200 in 62µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 54µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 62µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 63µs
+[info] Sent 200 in 60µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 77µs
+[info] Sent 200 in 65µs
+[info] Sent 200 in 84µs
+[info] Sent 200 in 74µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 109µs
+[info] Sent 200 in 77µs
+[info] Sent 200 in 79µs
+[info] Sent 200 in 108µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 44µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 40µs
+[info] GET /api/check/42
+[info] Sent 200 in 40µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 26µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 63µs
+[info] Sent 200 in 24µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 143µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 170µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 56µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 69µs
+[info] GET /api/check/42
+[info] Sent 200 in 70µs
+[info] Sent 200 in 76µs
+[info] GET /api/check/42
+[info] Sent 200 in 84µs
+[info] Sent 200 in 31µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 193µs
+[info] Sent 200 in 210µs
+[info] Sent 200 in 157µs
+[info] Sent 200 in 208µs
+[info] Sent 200 in 220µs
+[info] Sent 200 in 201µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 29µs
+[info] Sent 200 in 48µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 41µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 54µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 43µs
+[info] Sent 200 in 88µs
+[info] Sent 200 in 81µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 91µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 53µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 73µs
+[info] Sent 200 in 78µs
+[info] Sent 200 in 61µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 132µs
+[info] Sent 200 in 71µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 24µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 93µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 128µs
+[info] Sent 200 in 143µs
+[info] Sent 200 in 151µs
+[info] Sent 200 in 180µs
+[info] Sent 200 in 164µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 49µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 80µs
+[info] Sent 200 in 80µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 57µs
+[info] Sent 200 in 47µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 70µs
+[info] Sent 200 in 80µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 43µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 54µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 70µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 50µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 68µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 111µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 115µs
+[info] Sent 200 in 161µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 117µs
+[info] Sent 200 in 157µs
+[info] Sent 200 in 187µs
+[info] Sent 200 in 146µs
+[info] Sent 200 in 163µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 36µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 56µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 30µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 80µs
+[info] Sent 200 in 27µs
+[info] Sent 200 in 47µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 68µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 81µs
+[info] Sent 200 in 67µs
+[info] GET /api/check/42
+[info] Sent 200 in 67µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 127µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 95µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 115µs
+[info] Sent 200 in 97µs
+[info] Sent 200 in 92µs
+[info] Sent 200 in 150µs
+[info] Sent 200 in 128µs
+[info] Sent 200 in 139µs
+[info] Sent 200 in 138µs
+[info] Sent 200 in 155µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 37µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 64µs
+[info] Sent 200 in 50µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 51µs
+[info] Sent 200 in 79µs
+[info] Sent 200 in 68µs
+[info] Sent 200 in 63µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 61µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 41µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 69µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 58µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 73µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 80µs
+[info] Sent 200 in 119µs
+[info] Sent 200 in 95µs
+[info] Sent 200 in 110µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 141µs
+[info] Sent 200 in 114µs
+[info] Sent 200 in 102µs
+[info] Sent 200 in 113µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 38µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 31µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 45µs
+[info] Sent 200 in 64µs
+[info] Sent 200 in 45µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 44µs
+[info] Sent 200 in 45µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 60µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 76µs
+[info] Sent 200 in 103µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 65µs
+[info] Sent 200 in 99µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 77µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 114µs
+[info] Sent 200 in 134µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 111µs
+[info] Sent 200 in 79µs
+[info] Sent 200 in 105µs
+[info] Sent 200 in 93µs
+[info] Sent 200 in 138µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 141µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 90µs
+[info] Sent 200 in 47µs
+[info] Sent 200 in 92µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 77µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 127µs
+[info] Sent 200 in 111µs
+[info] Sent 200 in 106µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 138µs
+[info] Sent 200 in 128µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 68µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 96µs
+[info] Sent 200 in 112µs
+[info] GET /api/check/42
+[info] Sent 200 in 102µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 99µs
+[info] Sent 200 in 109µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 70µs
+[info] Sent 200 in 120µs
+[info] Sent 200 in 105µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 128µs
+[info] Sent 200 in 164µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 29µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 68µs
+[info] Sent 200 in 52µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 58µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 62µs
+[info] Sent 200 in 116µs
+[info] Sent 200 in 79µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 90µs
+[info] Sent 200 in 160µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 42µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 75µs
+[info] Sent 200 in 52µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 93µs
+[info] Sent 200 in 90µs
+[info] Sent 200 in 119µs
+[info] Sent 200 in 105µs
+[info] Sent 200 in 100µs
+[info] Sent 200 in 51µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 140µs
+[info] Sent 200 in 122µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 40µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 31µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 48µs
+[info] Sent 200 in 63µs
+[info] Sent 200 in 79µs
+[info] Sent 200 in 51µs
+[info] Sent 200 in 82µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 66µs
+[info] Sent 200 in 91µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 38µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 76µs
+[info] Sent 200 in 81µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 54µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 93µs
+[info] Sent 200 in 65µs
+[info] Sent 200 in 91µs
+[info] Sent 200 in 80µs
+[info] Sent 200 in 95µs
+[info] Sent 200 in 87µs
+[info] Sent 200 in 117µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 87µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 74µs
+[info] Sent 200 in 79µs
+[info] Sent 200 in 72µs
+[info] Sent 200 in 123µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 100µs
+[info] Sent 200 in 98µs
+[info] Sent 200 in 112µs
+[info] Sent 200 in 131µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 44µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 50µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 67µs
+[info] Sent 200 in 74µs
+[info] Sent 200 in 85µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 80µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 96µs
+[info] Sent 200 in 95µs
+[info] Sent 200 in 64µs
+[info] Sent 200 in 99µs
+[info] Sent 200 in 78µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 50µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 68µs
+[info] Sent 200 in 81µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 84µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 76µs
+[info] Sent 200 in 87µs
+[info] Sent 200 in 103µs
+[info] Sent 200 in 99µs
+[info] Sent 200 in 98µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 42µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 81µs
+[info] Sent 200 in 58µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 99µs
+[info] Sent 200 in 101µs
+[info] Sent 200 in 56µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 122µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 90µs
+[info] Sent 200 in 139µs
+[info] Sent 200 in 122µs
+[info] Sent 200 in 158µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 69µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 68µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 80µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 78µs
+[info] Sent 200 in 61µs
+[info] Sent 200 in 51µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 92µs
+[info] Sent 200 in 112µs
+[info] Sent 200 in 120µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 32µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 27µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 59µs
+[info] Sent 200 in 80µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 77µs
+[info] Sent 200 in 54µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 56µs
+[info] Sent 200 in 52µs
+[info] Sent 200 in 97µs
+[info] Sent 200 in 111µs
+[info] Sent 200 in 139µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 48µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 59µs
+[info] Sent 200 in 81µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 118µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 125µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 116µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 137µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 168µs
+[info] Sent 200 in 142µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 51µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 64µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 60µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 116µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 96µs
+[info] Sent 200 in 99µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 170µs
+[info] Sent 200 in 157µs
+[info] Sent 200 in 142µs
+[info] Sent 200 in 109µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 138µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 30µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 36µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 59µs
+[info] Sent 200 in 40µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 69µs
+[info] Sent 200 in 102µs
+[info] Sent 200 in 154µs
+[info] Sent 200 in 114µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 131µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] Sent 200 in 30µs
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 21µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] GET /api/check/42
+[info] Sent 200 in 35µs
+[info] GET /api/check/42
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[info] GET /api/check/42
+[info] Sent 200 in 63µs
+[info] GET /api/check/42
+[info] Sent 200 in 62µs
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+[debug] Processing with OddEvenApiWeb.NumberController.check/2
+  Parameters: %{"number" => "42"}
+  Pipelines: [:api]
+
+BREAK: (a)bort (A)bort with dump (c)ontinue (p)roc info (i)nfo
+       (l)oaded (v)ersion (k)ill (D)b-tables (d)istribution
