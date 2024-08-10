@@ -6,6 +6,7 @@ defmodule OddEvenApiWeb.NumberController do
       {int, _} ->
         result = if rem(int, 2) == 0, do: "even", else: "odd"
         json(conn, %{number: int, result: result})
+
       :error ->
         conn
         |> put_status(:bad_request)
