@@ -12,7 +12,8 @@ The Odd-Even API is a straightforward service that determines whether a given nu
 - Comprehensive test suite
 - GitHub Actions for Continuous Integration
 - Custom linting task
-- API load testing script (planned)
+- API load testing script
+- Docker support
 - Kubernetes deployment setup (planned)
 - Monitoring and logging (planned)
 
@@ -24,7 +25,7 @@ The Odd-Even API is a straightforward service that determines whether a given nu
 - **Database:** None (stateless API)
 - **CI/CD:** GitHub Actions
 - **Code Quality:** Credo, Custom Linter
-- **HTTP Client:** Finch
+- **HTTP Client:** Finch, HTTPoison
 
 ## Project Structure
 
@@ -49,7 +50,8 @@ odd_even_api/
 │   └── workflows/
 │       ├── elixir.yml
 │       └── elixir-ci.yml
-└── mix.exs
+├── mix.exs
+└── api_attack.exs
 ```
 
 ## Setup and Installation
@@ -96,6 +98,12 @@ mix lint
 
 This task combines Elixir's built-in formatter check with Credo's static code analysis.
 
+To automatically fix formatting issues:
+
+```bash
+mix lint --fix
+```
+
 ## Testing
 
 The test suite is located in the `test/` directory. To run the tests, use:
@@ -115,10 +123,20 @@ These workflows run on every push and pull request to the main branch, ensuring 
 
 ## API Attack
 
-To run the API attack, use the following command:
+To run the API attack script for load testing:
 
 ```
-URL=http://localhost:4000/api/check/42 NUM_REQUESTS=1000 CONCURRENCY=200 elixir api_attack.exs
+mix run api_attack.exs
+```
+
+You can configure the following environment variables:
+- `URL`: The base URL to attack (default: "http://localhost:4000/api/check/")
+- `NUM_REQUESTS`: Number of requests to send (default: 1000)
+- `CONCURRENCY`: Number of concurrent requests (default: 100)
+
+Example:
+```
+URL=http://localhost:4000/api/check/ NUM_REQUESTS=5000 CONCURRENCY=200 mix run api_attack.exs
 ```
 
 ## Docker
