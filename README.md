@@ -114,9 +114,18 @@ The project uses GitHub Actions for CI/CD. Two workflow configurations are provi
 
 These workflows run on every push and pull request to the main branch, ensuring code quality and test coverage.
 
+## API Attack
+
+To run the API attack, use the following command:
+
+```
+URL=http://localhost:4000/api/check/42 NUM_REQUESTS=1000 CONCURRENCY=200 elixir api_attack.exs
+
+```
+
+
 ## Future Enhancements
 
-- Implement API load testing script
 - Set up Kubernetes deployment
 - Add monitoring and logging
 - Enhance security measures

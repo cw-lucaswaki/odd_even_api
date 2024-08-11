@@ -1,0 +1,9 @@
+# .dockerignore
+_build/
+deps/
+.git/
+.gitignore
+Dockerfile
+.dockerignore
+test/
+priv/static/

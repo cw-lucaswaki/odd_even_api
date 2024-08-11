@@ -33,7 +33,10 @@ config :odd_even_api, OddEvenApi.Mailer, adapter: Swoosh.Adapters.Local
 # Configures Elixir's Logger
 config :logger, :console,
   format: "$time $metadata[$level] $message\n",
-  metadata: [:request_id]
+  metadata: [:request_id, :module, :function]
+
+config :logger,
+  level: :info
 
 # Use Jason for JSON parsing in Phoenix
 config :phoenix, :json_library, Jason
@@ -41,3 +44,11 @@ config :phoenix, :json_library, Jason
 # Import environment specific config. This must remain at the bottom
 # of this file so it overrides the configuration defined above.
 import_config "#{config_env()}.exs"
+
+# Add these lines to the existing configuration
+config :logger, :json_logger,
+  format: "$time $metadata[$level] $message\n",
+  metadata: [:request_id, :module, :function]
+
+config :logger,
+  level: :info

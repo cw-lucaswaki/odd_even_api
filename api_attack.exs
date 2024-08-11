@@ -1,19 +1,26 @@
 # File: api_attack.exs
 
 defmodule ApiAttack do
+  require Logger
+
   def run do
-    url = System.get_env("URL", "http://localhost:4000/api/check/42")
+    Logger.info("[ApiAttack] Starting API attack", module: __MODULE__, function: "run/0")
+    base_url = System.get_env("URL", "http://localhost:4000/api/check/")
     num_requests = System.get_env("NUM_REQUESTS", "1000") |> String.to_integer()
     concurrency = System.get_env("CONCURRENCY", "100") |> String.to_integer()
 
-    IO.puts("Starting attack on #{url}")
+    IO.puts("Starting attack on #{base_url}")
     IO.puts("Sending #{num_requests} requests with concurrency of #{concurrency}")
 
     start_time = System.monotonic_time(:millisecond)
 
     1..num_requests
     |> Task.async_stream(
-      fn _ -> send_request(url) end,
+      fn _ ->
+        random_number = :rand.uniform(100000) - 1  # Generate random number between 0 and 999
+        url = base_url <> Integer.to_string(random_number)
+        send_request(url)
+      end,
       max_concurrency: concurrency,
       ordered: false
     )
@@ -32,6 +39,7 @@ defmodule ApiAttack do
   end
 
   defp report_results(results, start_time) do
+    Logger.info("[ApiAttack] Attack completed", module: __MODULE__, function: "report_results/2")
     end_time = System.monotonic_time(:millisecond)
     duration = (end_time - start_time) / 1000
 
