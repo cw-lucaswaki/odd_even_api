@@ -120,9 +120,22 @@ To run the API attack, use the following command:
 
 ```
 URL=http://localhost:4000/api/check/42 NUM_REQUESTS=1000 CONCURRENCY=200 elixir api_attack.exs
-
 ```
 
+## Docker
+
+To build the Docker image, use the following command:
+
+```
+docker build -t odd_even_api .
+```
+
+To run the Docker image, use the following command:
+
+```
+docker run -e SECRET_KEY_BASE=$(mix phx.gen.secret) -e PORT=4000 -p 4000:4000 odd_even_api
+
+```
 
 ## Future Enhancements
 
