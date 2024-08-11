@@ -17,7 +17,8 @@ defmodule ApiAttack do
     1..num_requests
     |> Task.async_stream(
       fn _ ->
-        random_number = :rand.uniform(100000) - 1  # Generate random number between 0 and 999
+        # Generate random number between 0 and 999
+        random_number = :rand.uniform(100_000) - 1
         url = base_url <> Integer.to_string(random_number)
         send_request(url)
       end,

@@ -1,4 +1,3 @@
-
 # Elixir Phoenix Odd-Even API
 
 This project serves as a comprehensive study case for developing a simple yet robust API using Elixir and the Phoenix framework. It demonstrates key concepts in API development, testing, and DevOps practices.
@@ -134,7 +133,6 @@ To run the Docker image, use the following command:
 
 ```
 docker run -e SECRET_KEY_BASE=$(mix phx.gen.secret) -e PORT=4000 -p 4000:4000 odd_even_api
-
 ```
 
 ## Future Enhancements
