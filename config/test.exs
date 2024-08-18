@@ -18,3 +18,7 @@ config :logger, level: :warning
 
 # Initialize plugs at runtime for faster test compilation
 config :phoenix, :plug_init_mode, :runtime
+
+# Allow tests to respect the ssl bypass
+config :odd_even_api, :env, :test
+config :odd_even_api, :ssl_redirect, false
