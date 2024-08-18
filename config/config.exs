@@ -33,7 +33,7 @@ config :odd_even_api, OddEvenApi.Mailer, adapter: Swoosh.Adapters.Local
 # Configures Elixir's Logger
 config :logger, :console,
   format: "$time $metadata[$level] $message\n",
-  metadata: [:request_id, :module, :function]
+  metadata: [:request_id, :remote_ip, :request_path]
 
 config :logger,
   level: :info

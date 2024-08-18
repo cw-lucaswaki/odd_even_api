@@ -13,8 +13,8 @@ defmodule OddEvenApi.Application do
       {Phoenix.PubSub, name: OddEvenApi.PubSub},
       # Start the Finch HTTP client for sending emails
       {Finch, name: OddEvenApi.Finch},
-      # Start a worker by calling: OddEvenApi.Worker.start_link(arg)
-      # {OddEvenApi.Worker, arg},
+      # Start the PlugAttack storage
+      OddEvenApi.PlugAttackStorage,
       # Start to serve requests, typically the last entry
       OddEvenApiWeb.Endpoint
     ]
