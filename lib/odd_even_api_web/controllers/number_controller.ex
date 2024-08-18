@@ -2,32 +2,23 @@ defmodule OddEvenApiWeb.NumberController do
   use OddEvenApiWeb, :controller
   require Logger
 
-  def check(conn, %{"number" => number_string}) do
-    Logger.info("[NumberController] Checking number: #{number_string}",
-      module: __MODULE__,
-      function: "check/2"
-    )
-
-    case Integer.parse(number_string) do
-      {number, ""} ->
-        result = if rem(number, 2) == 0, do: "even", else: "odd"
-
-        Logger.info("[NumberController] Result: #{result}",
-          module: __MODULE__,
-          function: "check/2"
-        )
-
-        json(conn, %{number: number, result: result})
-
+  def check(conn, %{"number" => number}) do
+    case Integer.parse(number) do
+      {int_number, ""} when is_integer(int_number) ->
+        result = if rem(int_number, 2) == 0, do: "even", else: "odd"
+        json(conn, %{number: int_number, result: result})
       _ ->
-        Logger.warn("[NumberController] Invalid number provided: #{number_string}",
-          module: __MODULE__,
-          function: "check/2"
-        )
-
+        log_security_event(conn, "Invalid input attempt")
         conn
         |> put_status(:bad_request)
-        |> json(%{error: "Invalid number provided"})
+        |> json(%{error: "Invalid input. Please provide a valid integer."})
     end
+  end
+
+  defp log_security_event(conn, event) do
+    Logger.warn("Security event: #{event}",
+      remote_ip: to_string(:inet.ntoa(conn.remote_ip)),
+      request_path: conn.request_path
+    )
   end
 end

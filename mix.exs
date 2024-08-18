@@ -42,7 +42,8 @@ defmodule OddEvenApi.MixProject do
       {:dns_cluster, "~> 0.1.1"},
       {:bandit, "~> 1.5"},
       {:credo, "~> 1.6", only: [:dev, :test], runtime: false},
-      {:httpoison, "~> 1.8"}
+      {:httpoison, "~> 1.8"},
+      {:plug_attack, "~> 0.4.0"}
     ]
   end
 

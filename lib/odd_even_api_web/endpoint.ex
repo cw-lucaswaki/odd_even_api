@@ -32,6 +32,9 @@ defmodule OddEvenApiWeb.Endpoint do
   end
 
   plug Plug.RequestId
+  plug Plug.SSL, hsts: true, rewrite_on: [:x_forwarded_proto]
+  plug :put_secure_browser_headers
+  plug OddEvenApiWeb.PlugAttack
   plug Plug.Telemetry, event_prefix: [:phoenix, :endpoint]
 
   plug Plug.Parsers,
