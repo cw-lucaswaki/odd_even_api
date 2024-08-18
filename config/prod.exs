@@ -9,8 +9,7 @@ config :swoosh, local: false
 # Do not print debug messages in production
 config :logger, level: :info
 
-config :odd_even_api, OddEvenApiWeb.Endpoint,
-  force_ssl: [hsts: true]
+config :odd_even_api, OddEvenApiWeb.Endpoint, force_ssl: [hsts: true]
 
 # Runtime production configuration, including reading
 # of environment variables, is done on config/runtime.exs.
