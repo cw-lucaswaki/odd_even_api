@@ -20,7 +20,8 @@ defmodule ApiAttack do
       1..num_requests
       |> Task.async_stream(
         fn _ ->
-          Process.sleep(delay)  # Add delay between requests
+          # Add delay between requests
+          Process.sleep(delay)
           random_number = :rand.uniform(100_000) - 1
           url = base_url <> Integer.to_string(random_number)
           send_request(url)
@@ -29,9 +30,14 @@ defmodule ApiAttack do
         ordered: false
       )
       |> Enum.reduce(%{total: 0, success: 0, error: 0, rate_limited: 0}, fn
-        {:ok, {:ok, 200}}, acc -> %{acc | total: acc.total + 1, success: acc.success + 1}
-        {:ok, {:ok, 429}}, acc -> %{acc | total: acc.total + 1, rate_limited: acc.rate_limited + 1}
-        {:ok, _}, acc -> %{acc | total: acc.total + 1, error: acc.error + 1}
+        {:ok, {:ok, 200}}, acc ->
+          %{acc | total: acc.total + 1, success: acc.success + 1}
+
+        {:ok, {:ok, 429}}, acc ->
+          %{acc | total: acc.total + 1, rate_limited: acc.rate_limited + 1}
+
+        {:ok, _}, acc ->
+          %{acc | total: acc.total + 1, error: acc.error + 1}
       end)
 
     report_results(results, start_time)

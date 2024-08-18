@@ -11,7 +11,8 @@ defmodule OddEvenApiWeb.PlugAttack do
   rule "throttle by ip", conn do
     throttle(conn.remote_ip,
       period: 60_000,
-      limit: 180,  # Allow 120 requests per minute (2 per second on average)
+      # Allow 120 requests per minute (2 per second on average)
+      limit: 180,
       storage: {PlugAttack.Storage.Ets, OddEvenApi.PlugAttack.Storage}
     )
   end
